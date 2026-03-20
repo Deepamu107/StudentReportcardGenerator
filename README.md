@@ -115,6 +115,3 @@ Grade        : A
 * Input validation and better error handling
 * Update/edit functionality for reports
 * Export reports to PDF or Excel
-
-
-Just tell me 👍
